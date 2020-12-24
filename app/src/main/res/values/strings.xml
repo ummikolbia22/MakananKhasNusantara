@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Makanan Khas Nusantara</string>
+    <string name="nama">Nama</string>
+    <string name="Desc">Description</string>
+
+    <string-array name="data_name">
+        <item>Pempek Palembang</item>
+        <item>Rendang Padang </item>
+        <item>Gudeng Yogyakarta</item>
+        <item>Mie Aceh</item>
+        <item>Kerak Telor Jakarta</item>
+        <item>Gulai Ikan Patin Jambi</item>
+        <item>Bika Ambon Sumatera Utara</item>
+        <item>Otak-otak Riau</item>
+        <item>Mie Bangka Bangka Belitung</item>
+        <item>Seruit Lampung</item>
+        <item>Sate Bandeng Banten</item>
+        <item>Lumpia Jawa Tengah</item>
+        <item>Serabi Jawa Barat</item>
+        <item>Rujak Cingur Jawa Timur</item>
+        <item>Ayam Betutu Bali</item>
+        <item>Ayam Taliwang NTB</item>
+        <item>Cetemak Jagung NTT</item>
+        <item>Bubur pedas Sambas Kalbar</item>
+        <item>Soto Banjar Kalsel</item>
+        <item>Juhu Singkah Kalteng</item>
+        <item>Ayam Cincane Kaltim</item>
+        <item>Sup Konro Sulawesi Selatan</item>
+        <item>Sup Ikan Jantung Pisang Sulteng</item>
+        <item>Binte Biluhuta</item>
+        <item>Ikan Bakar Manokwari Papua Barat</item>
+        <item>Kue Sagu Papua Tengah</item>
+
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Di Sumatera Selatan terkenal makanan Pempek. Pempek terbuat dari ikan dan sagu. Penyajianya ditemani dengan kuah cokelat yang disebut cuko. Cuko terbuat dari air yang dididihkan, kemudian ditambah gula merah, udang rebi dan cabe rawit tumbuk, bawang putih, dan garam.</item>
+        <item>Sumatera Barat terkenal dengan makanan Padang yang berasal dari kota Padang. Makanan yang banyak rempahnya ini mempunyai rasa yang kuat. Rendang adalah salah satu masakan Padang yang menjadi favorit banyak orang Indonesiabahkan sampai luar negeri.</item>
+        <item>Gudheg) adalah makanan khas Provinsi Yogyakarta dan Jawa Tengah yang terbuat dari nangka muda yang dimasak dengan santan. Perlu waktu berjam-jam untuk membuat masakan ini. Warna coklat biasanya dihasilkan oleh daun jati yang dimasak bersamaan. Gudeg biasanya dimakan dengan nasi dan disajikan dengan kuah santan kental (areh), ayam kampung, telur, tempe, tahu dan sambal goreng krecek.</item>
+        <item>Mie Aceh adalah masakan mie pedas khas Aceh di Indonesia. Mie kuning tebal dengan irisan daging sapi, daging kambing atau makanan laut (udang dan cumi) disajikan dalam sup sejenis kari yang gurih dan pedas.</item>
+        <item>Kerak telor adalah makanan asli khas daerah Jakarta (Betawi) dengan bahan-bahan beras ketan putih, telur ayam, ebi (udang kering yang diasinkan) yang disangrai kering ditambah bawang merah goreng lalu diberi bumbu yang dihaluskan berupa kelapa sangrai, cabai merah, kencur, jahe, merica butiran, garam, dan gula pasir.</item>
+        <item>Gulai ikan Patin adalah masakan yang populer di masyarakat Jambi.  Gulai ini dimasak dengan menggunakan tempoyak yaitu daging buah durian yang telah difermentasi. Tetapi ada sebagian orang yang memilih untuk mengganti tempoyak dengan santan kelapa untuk menghindari bau dan rasa tempoyak yang cukup menyengat.</item>
+        <item>Makanan khas di Sumatera Utara khususnya Medan adalah Bika Ambon. Bika Ambon ini enak banget kadang juga dijual dengan rasa lain seperti durian dan keju. Rasanya manis dan lembut.</item>
+        <item>Otak-otak adalah salah satu makanan khas di Kepulauan Riau, baik di Batam, Tanjung Pinang, maupun di Pulau Penyengat. Di sini terdapat dua jenis otak-otak yaitu otak-otak yang terbuat dari ikan dan dari cumi yang lebih pedas. Otak-otak ini dibungkus dengan daun berwarna hijau sekalian dengan lidinya, yang kemudian dibakar dengan bara api.</item>
+        <item>Mie Bangka adalah salah satu dari sekian banyak ciri khas masyarakat pulau Bangka. Terbuat dari mie basah (kuning) biasa yang disiram dengan kuah berbumbu yang biasanya terbuat dari ikan, udang, cumi atau kepiting dan seringkali ditambahi dengan toge atau kecambah, mentimun, dan kerupuk. Lezat bila dihidangkan waktu masih panas dan ditambah rasa pedas dari cabe.</item>
+        <item>Seruit adalah makanan khas provinsi Lampung yaitu masakan ikan yang digoreng atau dibakar dicampur sambal terasi, tempoyak (olahan durian) atau mangga.</item>
+        <item>Sate Bandeng merupakan makanan khas Banten. Berbeda dengan ikan bandeng biasa, daging sate bandeng empuk dan tidak bertulang. Sate Bandeng menggunakan gula coklat atau santan. Karena kekhasannya sate bandeng menjadi oleh-oleh dari Banten.</item>
+        <item>Lumpia adalah makanan khas Jawa Tengah khususnya kota Semarang. Makanan ini berisi rebung, telur, dan daging udang. Setelah dibungkus bisa dimakan langsung, bisa juga digoreng.</item>
+        <item>Serabi (kadang disebut Surabi) merupakan jajanan pasar tradisional yang berasal dari jawabarat seperti Bandung, Ciamis , Cianjur dan Daerah priangan lainnya selalu terjaja panganan khas yang satu ini dengan rasa yang manis (gula aren) dan asin (oncom). Namun seiring dengan perkembangannya, serabi kini telah memiliki banyak varian rasa dengan aneka toping modern seperti sosis, kornet, durian, keju, coklat, telur dan masih banyak lagi. Sehingga serabi tidak lagi dicap sebagai makanan kelas rendahan, karena saat ini banyak kedai atau Cafee yang menjual serabi dengan konsep modern. Sehingga jadilah serabi makanan khas tradisional dengan cita rasa yang modern.</item>
+        <item>Rujak Cingur adalah salah satu makanan tradisional yang mudah ditemukan di daerah Jawa Timur, terutama daerah asalnya Surabaya. Cingur sendiri berarti mulut. Makanan ini memang menyajikan mulut sapi. Biasanya dihidangkan dengan sayuran kemudian diberi bumbu yang terbuat dari olahan petis udang, air matang, gula/gula merah, cabai, kacang tanah yang digoreng, bawang goreng, garam, dan irisan tipis-tipis pisang biji hijau yang masih muda (pisang klutuk).</item>
+        <item>Salah satu makanan khas Bali adalah ayam betutu. Ayam Betutu adalah lauk yang terbuat dari ayam yang utuh yang berisi bumbu kemudian dipanggang dalam api sekam.</item>
+        <item>Ayam Taliwang adalah makanan khas Lombok, Nus Tenggara Barat yang berbahan dasar ayam yang disajikan bersama bumbu-bumbunya berupa cabai merah kering, bawang merah, bawang putih, tomat merah, terasi goreng, kencur, gula jawa, dan garam. Biasanya disajikan bersama makanan khas Lombok lainnya seperti Plecing Kangkung.</item>
+        <item>Cetemak Jagung adalah makanan khas Nusa Tenggara Timur. Catemak Jagung adalah makanan penutup yang terbuat dari jagung, labu lilin, dan kacang hijau yang dimasak dengan bumbu masak penyedap rasa.</item>
+        <item>Bubur pedas Sambas adalah makanan khas dari wilayah Sambas, Kalimantan Barat. Meski nama makanan tersebut mengandung kata “pedas” yang akan membuat pecinta kuliner yang tidak suka pedas begidik ngeri, namun saat disuguhkan pasti akan minta tambah lagi.  Karena bubur pedas adalah bubur yang terbuat dari campuran sayur mayur dan saat diolah tidak ada dicampurkan bahan cabai sedikitpun.</item>
+        <item>Soto Banjar adalah sosto khas suku Banjar, Kalimantan Selatan dengan bahan utama ayam dan beraroma harum rempah-rempah seperti kayu manis, biji pala, dan cengkeh. Soto berisi daging ayam yang sudah disuwir-suwir dengan tambahan perkedel atau kentang rebus, rebusan telur, dan ketupat.</item>
+        <item>Juhu Singkah adalah makanan khas masyarakat Dayak, Kalimantan Tengah yang sangat lezat. Makanan ini bisa dijumpai di kota Palangkaraya, Kalteng. Makanan yang terbuat dari umbut rotan ini lebih lezat bila dipadukan dengan ikan betok. Umbut rotan diperoleh warga dengan mencarinya di sekitar hutan tempat mereka tinggal.</item>
+        <item>Ayam Cincane adalah salah satu kuliner andalan di kota Samarinda. Biasanya kuliner ini dijadikan hidangan utama ketika masyarakat Samarinda menyelenggarakan pesta pernikahan atau acara menyambut tamu kehormatan. Daging ayam kampung yang disajikan bersama bumbu berwarna kemerahan menjadi ciri khas tersendiri dari Ayam Cincane.</item>
+        <item>Sup Konro adalah masakan sup iga sapi khas Indonesia yang berasal dari tradisi Bugis dan Makassar. Sup ini biasanya dibuat dengan bahan iga sapi atau daging sapi. Masakan berkuah cokelat kehitaman ini biasa dimakan dengan ketupat kecil yang dipotong-potong terlebih dahulu. Warna gelap ini berasal dari buah kluwek yang memang berwarna hitam. Bumbunya erlatif “kuat” akibat digunakannya ketumbar.</item>
+        <item>Sup ikan Jantung Pisang adalah makan khas Sulawesi Tengah, tepatnya di kota Palu. Makanan dengan citarasa yang asam pedas yang segar ini menggunakan ikan kakap sebagai bahan utama.</item>
+        <item>Binte Biluhuta adalah makanan khas Gorontalo. Makanan ini bisa juga disebut dengan milu siram, karena terbuat dari milu (bahasa setempat berarti jagung), makanan ini  terbuat dari jagung, udang, kelapa setengah tua, belimbing sayur, daun bawang, daun kemangi, bawang merah, jeruk nipis.</item>
+        <item>Ikan bakar Manokwari adalah makanan khas Manokwari, Papua. Tidak seperti ikan bakar yang biasa kita temui di kebanyakan warung ataupun rumah makan, ikan bakar ini memiliki rasa khas yang bisa membuat lidah bergoyang karena tambahan sambal khas Papua yang disiramkan di atasnya. Ikan yang biasa dijadikan bahan masakan ini adalah ikan Tongkol.</item>
+        <item>Kue Sagu atau Bagea adalah kue yang berasal dari Papua. Bahan dasar pembuatan kue ini adalah tepung sagu. Kue Sagu ini agak keras saat digigit tetapi kalau sudah ada di dalam mulut atau dicelup ke air akan cepat lunak/lembek.</item>
+
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://nusadaily.com/wp-content/uploads/2020/05/pempek-palembang.jpg</item>
+        <item>https://cdn2.tstatic.net/padang/foto/bank/images/ilustrasi-rendang.jpg</item>
+        <item>https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:good,w_640,ar_16:9/v1566898918/jwgiwgsirs5vwzbobopu.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mie_Aceh_with_beef.jpg/1200px-Mie_Aceh_with_beef.jpg</item>
+        <item>https://kbu-cdn.com/dk/wp-content/uploads/kerak-telor.jpg</item>
+        <item>https://backpackerjakarta.com/wp-content/uploads/2017/01/gulai-patin2.jpg</item>
+        <item>https://cdns.klimg.com/merdeka.com/i/w/news/2020/03/31/1161947/540x270/sering-dikira-dari-ambon-ini-6-fakta-menarik-bika-ambon-asli-medan-yang-melegenda.jpg</item>
+        <item>https://2.bp.blogspot.com/-u0-Lkso87_g/VIu7-zM4c-I/AAAAAAAAAG8/LU-ZMqW2CF0/s1600/otak-otak.jpg</item>
+        <item>https://www.gotravelly.com/blog/wp-content/uploads/2019/02/mie-koba-iskandar.jpg</item>
+        <item>https://asset-a.grid.id//crop/0x0:0x0/700x465/photo/bobofoto/original/1425_seruit-kuliner-khas-lampung-foto-kamerabudayacom.jpg</item>
+        <item>https://asset.kompas.com/crop/0x0:1023x682/750x500/data/photo/2019/04/20/3548501076.jpg</item>
+        <item>https://cdn0-production-images-kly.akamaized.net/swwPgCtOSsHp0P7pAqe3zx3HewQ=/71x63:953x560/375x208/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2383426/original/008620400_1539580557-lumpia_ganesh2013.jpg</item>
+        <item>https://vitakhunakma.files.wordpress.com/2017/03/homemade2b732b-2bserabi.jpg?w=640</item>
+        <item>https://img-global.cpcdn.com/recipes/5e0544eefc0f9b3b/751x532cq70/rujak-cingur-khas-jawa-timur-foto-resep-utama.jpg</item>
+        <item>https://cdn-2.tstatic.net/travel/foto/bank/images/ayam-betutu-kuliner-enak-di-bali-untuk-makan-siang.jpg</item>
+        <item>https://sibukliburan.id/wp-content/uploads/2019/07/Ayam-Taliwang.jpeg</item>
+        <item>https://www.makanabis.com/bima-content/2020/10/07/l-unnamed-1a90b5777071265fbff6c361cf0b751aa20201007142526-bimacms.jpg</item>
+        <item>https://assets-a1.kompasiana.com/items/album/2018/03/14/hqdefault-5aa89910caf7db100f088092.jpg</item>
+        <item>https://4.bp.blogspot.com/-BCZtvux7N2Q/UeyyniY9nOI/AAAAAAAAAQE/0GydtQpfnTk/s1600/soto-banjar.jpg</item>
+        <item>https://www.borneonews.co.id/images/upload/2018/02/06/na2eE3JKGnAC3BYsCw9lVCfCuVvaqn9s2FhunP0526c.jpeg</item>
+        <item>https://merahputih.com/media/f6/aa/e9/f6aae93598c11edb532435ba486706f7.jpg</item>
+        <item>https://3.bp.blogspot.com/-eCIIDqumbZI/VtK5nJRWoJI/AAAAAAAAA3s/eJ3XO_at9hE/s1600/Untitled_%25E5%2589%25AF%25E6%259C%25AC.jpg</item>
+        <item>https://2.bp.blogspot.com/-rsAp5OGGpXY/XGeCekKQWeI/AAAAAAABIrQ/ApRjwsYIdjcNAHmyV2B8200AtkaogV8zwCLcBGAs/s1600/Screenshot_71.png</item>
+        <item>https://thumb.viva.co.id/media/frontend/thumbs3/2018/11/26/5bfbaa683d68d-binte-buluhita-sumber-foto-pesona-indonesia_665_374.jpeg</item>
+        <item>https://www.sasa.co.id/uploads/recipes/1587483169810922.jpg</item>
+        <item>https://2.bp.blogspot.com/-EVOka20jZxs/XAtXfE5qgQI/AAAAAAAAADs/omwHmo-TBjwbYLiFrzZH72QTtVco-HNBACEwYBhgL/s1600/image_search_1544246469728.jpg</item>
+
+    </string-array>
+</resources>
